@@ -17,7 +17,7 @@ This is a false positive likely due to:
 ---
 ### Download the executable:
 - You can download the precompiled executable directly (Windows):
-[Download](https://github.com/wooyeoup-rho/icon-converter/releases/download/v1.0/pdf-title-changer.exe)
+[Download](https://github.com/wooyeoup-rho/pdf-title-changer/releases/download/v1.0/pdf-title-changer.exe)
 
 - Or check out the releases page:
 [PDF Title Changer releases](https://github.com/wooyeoup-rho/pdf-title-changer/releases/tag/v1.0)
