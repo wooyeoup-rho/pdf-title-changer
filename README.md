@@ -4,7 +4,12 @@ Simple app that allows users to drag and drop pdfs and change its metadata title
 - Drag and drop functionality
 - Updated file created in the same directory as the dropped file.
 
+## Showcase
+
+https://github.com/user-attachments/assets/7580ec65-e725-452a-adf2-5fa3ff79d719
+
 ## Disclaimer
+
 The application *may be flagged as malicious* by certain security vendors and antivirus programs (8/71 on VirusTotal).
 
 This is a false positive likely due to:
